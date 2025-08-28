@@ -14,6 +14,9 @@ Isso é intencional, já que o foco deste projeto não foi clean code, mas sim *
 ---
 
 ## ▶️ Teste o jogo
+![Print do jogo](./Assets/flappy.PNG)
+
+
 👉 [Clique aqui para jogar](https://play.unity.com/en/games/dcad8d9e-a154-4eee-b907-9365cdf1b312/minimal-flappy-bird)  
 
 ---
